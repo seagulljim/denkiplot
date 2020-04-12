@@ -1,2 +1,1 @@
-# denkiplot
-Plotting GAMS outputs from Denki
+This has a bunch of plotting scripts
