@@ -1,0 +1,27 @@
+technologies,Name,Technology,colour1,colour2,Rank
+coal_extg_lya,Loy Yang A,Coal,saddlebrown,saddlebrown,1
+coal_extg_loyyb,Loy Yang B,Coal,chocolate,saddlebrown,2
+coal_extg_ywps,Yallourn,Coal,peru,saddlebrown,3
+ocgt_extg_som,Sommerton,OCGT,indianred,indianred,7
+ocgt_extg_bai,Bairnsdale,OCGT,firebrick,indianred,8
+ocgt_extg_jee,Jerralang,OCGT,darkred,indianred,9
+ocgt_extg_lav,Laverton,OCGT,orangered,indianred,10
+ocgt_extg_mor,Mortlake,OCGT,tomato,indianred,11
+gpst_extg_new,Newport,CCGT,darkorange,darkorange,5
+ocgt_extg_vp,Valley Power,OCGT,lightsalmon,indianred,12
+wind_extg,Wind (Exi),Wind,skyblue,skyblue,16
+solar_extg,Solar (Exi),Solar,gold,gold,14
+battery_extg,Battery (Exi),Battery,pink,pink,22
+hydro_extg,Hydro (Exi),Hydro,navy,navy,17
+coal,New Coal,Coal,sienna,saddlebrown,4
+ccgt,New CCGT,CCGT,navajowhite,darkorange,6
+ocgt,New OCGT,OCGT,lightcoral,indianred,13
+wind,New Wind,Wind,darkturquoise,skyblue,16
+solar,New Solar,Solar,khaki,gold,15
+battery_2hrs,Battery 2hr,Battery,lightpink,pink,23
+battery_4hrs,Battery 4hr,Battery,lightpink,pink,24
+phes_6hrs,PHES 6hr,PHES,slateblue,slateblue,18
+phes_12hrs,PHES 12hrs,PHES,slateblue,slateblue,19
+phes_24hrs,PHES 24hrs,PHES,slateblue,slateblue,20
+phes_48hrs,PHES 48hrs,PHES,slateblue,slateblue,21
+solar_cst,Solar CST,Solar CST,yellow,yellow,25
